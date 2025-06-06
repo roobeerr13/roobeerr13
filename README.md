@@ -1,4 +1,4 @@
-![NiTjnID](https://github.com/mariorous/mariorous/assets/67478429/0d6bbc82-a6a0-4194-abe4-084901c4da5b)
+![NiTjnID]([https://github.com/mariorous/mariorous/assets/67478429/0d6bbc82-a6a0-4194-abe4-084901c4da5b](https://www.reddit.com/r/PixelArt/comments/1ezd4zr/lofi_boy_fan_art/?tl=es-es#lightbox))
 
 <h1 align="left"><b>Hi , I'm Roberto Jiménez </b><img src="https://www.reddit.com/r/PixelArt/comments/1ezd4zr/lofi_boy_fan_art/?tl=es-es#lightbox" width="35"></h1>
 
