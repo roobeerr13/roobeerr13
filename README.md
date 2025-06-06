@@ -1,4 +1,3 @@
-![NiTjnID](https://imgur.com/a/MppVmYt)
 
 <h1 align="left"><b>Hi , I'm Roberto Jiménez </b><img src="https://www.reddit.com/r/PixelArt/comments/1ezd4zr/lofi_boy_fan_art/?tl=es-es#lightbox" width="35"></h1>
 
