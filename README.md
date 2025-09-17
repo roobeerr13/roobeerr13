@@ -1,5 +1,5 @@
 
-<h1 align="left"><b>Hi , I'm Roberto Jiménez </b><img src="https://www.reddit.com/r/PixelArt/comments/1ezd4zr/lofi_boy_fan_art/?tl=es-es#lightbox" width="35"></h1>
+<h1 align="left"><b>Hi , I'm Roberto Jiménez </b><img src="<img src="assets/lofi.gif" width="35">" width="35"></h1>
 
 Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
