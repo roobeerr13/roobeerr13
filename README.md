@@ -5,7 +5,7 @@
 
 <h1 align="left" style="font-size: 32px; margin-bottom: 0; display: flex; align-items: center; gap: 0.5em;">
     <b>Hi, I'm Roberto Jiménez</b>
-    <img src="https://user-images.githubusercontent.com/attachments/hi_hand.gif" alt="Waving Hand" style="width: 40px; vertical-align: middle;" />
+    <img src="assets/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" alt="Waving Hand" style="width: 40px; vertical-align: middle;" />
 </h1>
 
 <hr>
