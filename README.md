@@ -2,10 +2,10 @@
   <img src="assets/lofi.gif" alt="Lofi Banner" width="100%" />
 </p>
 
-<h1 align="left">
+<h1 align="left" style="font-size: 14px;">
   <b>Hi, I'm Roberto Jiménez</b>
 
-<p align="center" style="font-size: 14px;">
+<p align="left" style="font-size: 12px;">
 Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
 🌱 Estoy aprendiendo por cuenta propia sobre Firebase, Tailwind CSS, Web design y más. <br>
