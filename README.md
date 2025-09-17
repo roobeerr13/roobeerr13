@@ -3,8 +3,9 @@
 </p>
 
 
-<h1 align="left" style="font-size: 32px; margin-bottom: 0;">
+<h1 align="left" style="font-size: 32px; margin-bottom: 0; display: flex; align-items: center; gap: 0.5em;">
     <b>Hi, I'm Roberto Jiménez</b>
+    <img src="https://user-images.githubusercontent.com/attachments/hi_hand.gif" alt="Waving Hand" style="width: 40px; vertical-align: middle;" />
 </h1>
 
 <hr>
