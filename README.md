@@ -1,8 +1,8 @@
-
-<h1 align="left"><b>Hi , I'm Roberto Jiménez </b><h1 align="left">
+<h1 align="left">
   <b>Hi, I'm Roberto Jiménez</b>
   <img src="assets/lofi.gif" width="35">
 </h1>
+
 
 
 Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
