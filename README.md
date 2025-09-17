@@ -1,5 +1,9 @@
 
-<h1 align="left"><b>Hi , I'm Roberto Jiménez </b><img src="<img src="assets/lofi.gif" width="35">" width="35"></h1>
+<h1 align="left"><b>Hi , I'm Roberto Jiménez </b><h1 align="left">
+  <b>Hi, I'm Roberto Jiménez</b>
+  <img src="assets/lofi.gif" width="35">
+</h1>
+
 
 Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
