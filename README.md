@@ -8,14 +8,15 @@
 <hr>
 
 <p align="left" style="font-size: 12px;">
-Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
-🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
-🌱 Estoy aprendiendo por cuenta propia sobre Firebase, Tailwind CSS, Web design y más. <br>
-⚡ Si tienes consejos interesantes de programación, no dudes en contactarme. <br>
-✨ También estoy en algunos canales de Discord para aprender más y charlar, incluso tengo el mio propio. <br>
-💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, además me gusta ir al gym y leer. 📚
-
-- Visita mi web [aquí](*introducir*) para aprender más sobre mi.
+    Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
+    🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
+    🌱 Estoy aprendiendo por cuenta propia sobre Firebase, Tailwind CSS, Web design y más. <br>
+    ⚡ Si tienes consejos interesantes de programación, no dudes en contactarme. <br>
+    ✨ También estoy en algunos canales de Discord para aprender más y charlar, incluso tengo el mio propio. <br>
+    💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, además me gusta ir al gym y leer. 📚
+    <br><br>
+    - Visita mi web [aquí](*introducir*) para aprender más sobre mi.
+</p>
 
 ### 📬 Social media:
 <p align="left">
