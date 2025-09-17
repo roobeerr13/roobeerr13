@@ -3,8 +3,6 @@
   <img src="assets/lofi.gif" width="35">
 </h1>
 
-
-
 Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
 🌱 Estoy aprendiendo por cuenta propia sobre Firebase, Tailwind CSS, Web design y más. <br>
