@@ -27,7 +27,8 @@
     <a href="" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://www.linkedin.com/in/roberto-jim%C3%A9nez-jeric%C3%B3-22b125333/" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
     <a href="" target="_blank" rel="noreferrer">
