@@ -4,6 +4,7 @@
 
 <h1 align="left">
   <b>Hi, I'm Roberto Jiménez</b>
+<p align="center" style="font-size: 14px;">
 
 Soy un desarrollador de 19 años, soy de Madrid y me apasiona crear experiencias digitales. <br>
 🔭 Actualmente estoy estudiando segundo de Ingeniería Informática 💻 <br>
