@@ -60,6 +60,15 @@
 ) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
 )
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/isromero">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isromero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isromero&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## 📫 Contact
 Puedes contactarme en robertojj2006@gmail.com.
 <br>
