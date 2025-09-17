@@ -15,7 +15,7 @@
     ✨ También estoy en algunos canales de Discord para aprender más y charlar, incluso tengo el mio propio. <br>
     💖 En mi tiempo libre aprendo sobre nuevas tecnologías que me llaman la atención, además me gusta ir al gym y leer. 📚
     <br><br>
-    - Visita mi web [aquí](*introducir*) para aprender más sobre mi.
+    - Visita mi web https://roobeerr13.github.io/portfolio-rob/ para aprender más sobre mi.
 </p>
 
 ### 📬 Social media:
